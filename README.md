@@ -15,3 +15,5 @@ Prediction using Logistic Regression
 Prediction using Support Vector Classifier
 Prediction using Decision Tree Classifier
 Prediction using KNN Classifier
+
+
